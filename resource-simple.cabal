@@ -7,7 +7,7 @@ author:              Shane O'Brien
 maintainer:          shane@duairc.com
 stability:           Experimental
 category:            Control
-cabal-version:       >= 1.2
+cabal-version:       >= 1.6
 build-type:          Simple
 description:
   This is a simplified, standalone version of the @ResourceT@ transformer that
